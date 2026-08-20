@@ -74,7 +74,7 @@ For now, I'm intentionally keeping these as **future improvements** rather than 
 ## Running project
 1. Clone the repository
 ``` 
-git clone 
+git clone https://github.com/Caleb-Bako/Frameo.git
 ```
 
 2. Install dependencies

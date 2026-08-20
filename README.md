@@ -73,7 +73,9 @@ For now, I'm intentionally keeping these as **future improvements** rather than 
 
 ## Running project
 1. Clone the repository
-``` git clone ```
+``` 
+git clone 
+```
 
 2. Install dependencies
 ```
@@ -83,7 +85,6 @@ npm install
 3. Start the development server
 ```
 npm run dev
-
 ```
 
 Video Preview

@@ -1,4 +1,5 @@
 <img width="1916" height="902" alt="Screenshot 2026-08-20 160917" src="https://github.com/user-attachments/assets/fbca4a50-33e2-4241-be42-feebb1200402" />
+
 # Frameo - Screen Recorder 📹
 Frameo is a simple browser-based screen reorder i built to make recording my content easier. The goal was to create something lightweight that lets me capture my screen and preview the recording without needing a complicated setup. 
 

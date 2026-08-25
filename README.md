@@ -8,7 +8,9 @@ I built Frameo because I needed a simple screen recorder for creating content wh
 It's simply a project I thought of, a problem I had, and something I decided to build. This is **version 1**.
 
 ## Tech Stack
-React + CSS
+- React
+- Javascript
+- CSS
 
 ## Features
 - Record screen of choice

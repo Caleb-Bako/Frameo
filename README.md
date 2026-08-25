@@ -91,4 +91,8 @@ npm install
 npm run dev
 ```
 
-Video Preview
+### Video Preview
+
+https://github.com/user-attachments/assets/0a5544a1-59f1-45ab-b1ee-0fa3d1abad41
+
+
